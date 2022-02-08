@@ -8,3 +8,6 @@ npm i express mongoose ejs
 
 documentacion mongoose
 * https://www.npmjs.com/package/mongoose
+
+
+![](https://github.com/elmergustavo/Crud_MongoDB/blob/master/cap.png)
